@@ -9,6 +9,8 @@ public class Fatorial {
 	            fatorial *= i;
 	            System.out.println("Fatorial de "+i+ " = " +fatorial);
 	            System.out.println("lula monstro");
+	            System.out.println("aaa");
+	            
 	        }			
 	}
 }
